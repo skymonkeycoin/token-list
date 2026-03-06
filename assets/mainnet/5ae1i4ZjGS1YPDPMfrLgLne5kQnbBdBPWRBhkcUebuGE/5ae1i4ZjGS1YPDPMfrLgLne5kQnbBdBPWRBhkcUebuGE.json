@@ -1,0 +1,11 @@
+{
+  "name": "SpaceMonkey",
+  "symbol": "SMONK",
+  "address": "5ae1i4ZjGS1YPDPMfrLgLne5kQnbBdBPWRBhkcUebuGE",
+  "decimals": 6,
+  "logoURI": "https://github.com/skymonkeycoin/token-list/raw/main/assets/mainnet/5ae1i4ZjGS1YPDPMfrLgLne5kQnbBdBPWRBhkcUebuGE/logo.png",
+  "extensions": {
+    "website": "https://sky-monkey-coin.base44.app",
+    "coingeckoId": null
+  }
+}
